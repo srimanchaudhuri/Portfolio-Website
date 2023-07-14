@@ -19,9 +19,9 @@ import {
     starbucks,
     tesla,
     shopify,
+    tripguide,
     carrent,
     jobit,
-    tripguide,
     threejs,
   } from "../assets";
   

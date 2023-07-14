@@ -27,8 +27,8 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.jpeg";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.gif";
+ import jobit from "./jobit.png";
+ import tripguide from "./tripguide.gif";
 
 export {
   logo,
@@ -58,5 +58,5 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,
+  tripguide
 };
